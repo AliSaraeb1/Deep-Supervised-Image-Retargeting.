@@ -1,0 +1,17 @@
+
+model=no_Lm_tv_best3
+ckpt=/content/drive/MyDrive/Project CSE 6520/Stage 2 Model Development and Evaluation/Evaluation on pretrained model/mrgan_no_Lm_tv_best3.pth
+outdir=/content/drive/MyDrive/Project CSE 6520/Stage 2 Model Development and Evaluation/Evaluation on pretrained model/mrgan_outputs/no_Lm_tv_best3
+epoch=31
+
+per-dataset:
+AVA        | PSNR in/out: 18.748 / 23.272  | SSIM in/out: 0.5524 / 0.7215  | FSIM in/out: 0.7686 / 0.8499  | VIF  in/out: 0.2073 / 0.3335
+COCO       | PSNR in/out: 21.860 / 22.885  | SSIM in/out: 0.6238 / 0.6709  | FSIM in/out: 0.8126 / 0.8277  | VIF  in/out: 0.2886 / 0.3044
+HKU-IS     | PSNR in/out: 22.001 / 23.009  | SSIM in/out: 0.6099 / 0.6580  | FSIM in/out: 0.8195 / 0.8332  | VIF  in/out: 0.2792 / 0.2946
+Waterloo   | PSNR in/out: 18.109 / 23.936  | SSIM in/out: 0.5363 / 0.7547  | FSIM in/out: 0.7601 / 0.8618  | VIF  in/out: 0.1954 / 0.3686
+
+overall:
+TIReD_all  | PSNR in/out: 20.133 / 23.185  | SSIM in/out: 0.5830 / 0.7013  | FSIM in/out: 0.7886 / 0.8414  | VIF  in/out: 0.2434 / 0.3239
+
+saving_examples=8
+done
