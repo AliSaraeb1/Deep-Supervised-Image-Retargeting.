@@ -23,5 +23,5 @@ The TIReD dataset was made available by the authors at:
 - [https://github.com/TIReD2020/TIReD](https://github.com/TIReD2020/TIReD)
 
 
-© 2025 Ali Saraeb. All rights reserved.  
+© 2026 Ali Saraeb. All rights reserved.  
 
