@@ -6,7 +6,7 @@ This repository contains a PyTorch implementation of the method from
 > **“Deep Supervised Image Retargeting”**, IEEE TCSVT, 2021.  
 > [https://ieeexplore.ieee.org/document/9428129](https://ieeexplore.ieee.org/document/9428129)
 
-Please see the notebook (training + evaluation) for the implementation code and details of implementation:
+Please see the notebook (training) for the implementation code and details of implementation (please note that this took 30 hours on supercomputer to finish, and there is no need to run it again. I make it available here, though:
 
 - [`deep_supervised_image_retargeting.ipynb`](./deep_supervised_image_retargeting.ipynb)
 
