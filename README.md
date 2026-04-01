@@ -16,8 +16,14 @@ We make the code for evaluating the best checkpoints of pretrained models availa
 
 We make the pretrained checkpoints available for download and use here:
 
--  for the loss_mode="ours": [mrgan_tired_best.pth](mrgan_no_Lm_tv_best3.pth) 
--  for the loss_mode="no_Lm_tv": [mrgan_no_Lm_tv_best3.pth](mrgan_tired_best.pth)
+-  for the loss_mode="ours": [mrgan_tired_best.pth](mrgan_tired_best.pth) 
+-  for the loss_mode="no_Lm_tv": [mrgan_no_Lm_tv_best3.pth](mrgan_no_Lm_tv_best3.pth)
+
+
+To see the reported metrics, look at
+
+-  for the loss_mode="ours": [run.log]()
+-for the loss_mode="no_Lm_tv": [run.log](mrgan_outputs/no_Lm_tv_best3/run.log)
 
 The TIReD dataset was made available by the authors at:  
 - [https://github.com/TIReD2020/TIReD](https://github.com/TIReD2020/TIReD)
