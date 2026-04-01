@@ -22,8 +22,8 @@ We make the pretrained checkpoints available for download and use here:
 
 To see the reported metrics, look at
 
--  for the loss_mode="ours": [run.log]()
--for the loss_mode="no_Lm_tv": [run.log](mrgan_outputs/no_Lm_tv_best3/run.log)
+-  for the loss_mode="ours": [run.log](mrgan_outputs/tired_best/run.log)
+-  for the loss_mode="no_Lm_tv": [run.log](mrgan_outputs/no_Lm_tv_best3/run.log)
 
 The TIReD dataset was made available by the authors at:  
 - [https://github.com/TIReD2020/TIReD](https://github.com/TIReD2020/TIReD)
