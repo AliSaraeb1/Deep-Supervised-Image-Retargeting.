@@ -6,7 +6,7 @@ This repository contains a PyTorch implementation of the method from
 > **“Deep Supervised Image Retargeting”**, IEEE TCSVT, 2021.  
 > [https://ieeexplore.ieee.org/document/9428129](https://ieeexplore.ieee.org/document/9428129)
 
-Please see the notebook (training) for the implementation code and details of implementation (please note that this took 30 hours on supercomputer to finish, and there is no need to run it again. I make it available here, though:
+Please see the following notebook (training) for the implementation code, details of implementation, and other explanations (please note that this took 30 hours on a supercomputer to finish, and there is no need to run it again). I make it available here, though:
 
 - [`deep_supervised_image_retargeting.ipynb`](./deep_supervised_image_retargeting.ipynb)
 
@@ -19,6 +19,9 @@ We make the pretrained checkpoints available for download and use here:
 -  for the loss_mode="ours": [mrgan_tired_best.pth](mrgan_tired_best.pth) 
 -  for the loss_mode="no_Lm_tv": [mrgan_no_Lm_tv_best3.pth](mrgan_no_Lm_tv_best3.pth)
 
+To see the triplet image outputs, see 
+
+-[mrgan_tired_best.pth]()
 
 To see the reported metrics, look at
 
