@@ -14,6 +14,8 @@ We make the code for evaluating the best checkpoints of pretrained models availa
 
 - [mrgan_run_pretrained.ipynb](mrgan_run_pretrained.ipynb)
 
+This is also available at [this link](https://colab.research.google.com/drive/1nYlndOgxg1gstyE2QUtlHl0-X7HL9JmT?usp=sharing).
+
 We make the pretrained checkpoints available for download and use here:
 
 -  for the loss_mode="ours": [mrgan_tired_best.pth](mrgan_tired_best.pth) 
