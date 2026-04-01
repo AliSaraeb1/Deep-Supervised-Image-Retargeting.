@@ -8,7 +8,7 @@ This repository contains a PyTorch implementation of the method from
 
 Please see the following notebook (training) for the implementation code, details of implementation, and other explanations (please note that this took 30 hours on a supercomputer to finish, and there is no need to run it again). I make it available here, though:
 
-- [`deep_supervised_image_retargeting.ipynb`](./deep_supervised_image_retargeting.ipynb)
+- [deep_supervised_image_retargeting.ipynb](./deep_supervised_image_retargeting.ipynb)
 
 We make the code for evaluating the best checkpoints of pretrained models available here (this takes roughly 10 minutes on Google Colab GPU):
 
