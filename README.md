@@ -21,7 +21,7 @@ We make the pretrained checkpoints available for download and use here:
 
 To see the triplet image outputs, see 
 
--[mrgan_outputs](mrgan_outputs)
+-  [mrgan_outputs](mrgan_outputs)
 
 To see the reported metrics, look at
 
