@@ -10,7 +10,7 @@ Please see the notebook (training) for the implementation code and details of im
 
 - [`deep_supervised_image_retargeting.ipynb`](./deep_supervised_image_retargeting.ipynb)
 
-We make the code evaluating the pretrained models available here 
+We make the code for evaluating the best checkpoints of pretrained models available here (this takes roughly 10 minutes on Google Colab GPU):
 
 - [`mrgan_run_pretrained.py`](./mrgan_run_pretrained.py)
 
