@@ -12,7 +12,7 @@ Please see the following notebook (training) for the implementation code, detail
 
 We make the code for evaluating the best checkpoints of pretrained models available here (this takes roughly 10 minutes on Google Colab GPU):
 
-- [`mrgan_run_pretrained.py`](./mrgan_run_pretrained.py)
+- [mrgan_run_pretrained.ipynb](mrgan_run_pretrained.ipynb)
 
 We make the pretrained checkpoints available for download and use here:
 
